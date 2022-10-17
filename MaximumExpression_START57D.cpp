@@ -23,7 +23,7 @@ int main() {
 	            dig++;
 	        }
 	    }
-	    string ans = "";
+	    string ans ="";
 	    int i = 9;
 	    while(dig-(plus+minus)){
 	        if(d[i] == 0){ 
